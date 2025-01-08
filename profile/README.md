@@ -10,7 +10,6 @@
       <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/292fbf51-0de8-4e3a-8555-3fc80f5c5a15" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/yoondanbi"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/a674536c-7189-4afe-9e7c-d8d44fecb2a0" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/flsrinn"><img src="https://github.com/HSU-REPLAY/.github/assets/123474937/e30e29de-f541-41fc-b5cf-bd8569d64990" width="150px;" alt=""/><br /><sub><b>전아린</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/niroey"><img src="https://github.com/HwangCheese/.github/assets/121416032/04fb092e-823c-4188-ab6c-1659e19b2187" width="150px;" alt=""/><br /><sub><b>하여린</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
