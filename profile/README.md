@@ -18,7 +18,7 @@
 
 | **2024 시스코 이노베이션 챌린지** <br/> 장려상 | **제 20회 한성공학경진대회** <br/> 은상 | **2024 SW 중심 대학 연합 SW FESTIVAL** <br/> 최우수상 | **"AI를 활용한 간결한 메모와 공유 시스템: QuickQuick" 논문 출간** |
 | --- | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/c40ba00b-d79b-45b7-bf63-2260b02b2c4b" alt="시스코 1" width="150" height="250"/> | <img src="https://github.com/user-attachments/assets/4350f730-f181-4a82-8c35-b0e1872e3c63" alt="공경진" width="150" height="250"/> | <img src="https://github.com/user-attachments/assets/edb633ff-17e8-4bd1-a1d1-7481ed1fd732" alt="경희대" width="150" height="250"/> | <img src="https://github.com/user-attachments/assets/48f30873-e9c5-4af7-b185-c4dac59c97c9" alt="논문" width="150" height="250"/> |
+| <img src="https://github.com/user-attachments/assets/c40ba00b-d79b-45b7-bf63-2260b02b2c4b" alt="시스코 1" width="200" height="250"/> | <img src="https://github.com/user-attachments/assets/4350f730-f181-4a82-8c35-b0e1872e3c63" alt="공경진" width="200" height="250"/> | <img src="https://github.com/user-attachments/assets/edb633ff-17e8-4bd1-a1d1-7481ed1fd732" alt="경희대" width="200" height="250"/> | <img src="https://github.com/user-attachments/assets/48f30873-e9c5-4af7-b185-c4dac59c97c9" alt="논문" width="200" height="250"/> |
 
 
 
